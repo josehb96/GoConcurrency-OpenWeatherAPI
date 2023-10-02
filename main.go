@@ -7,7 +7,7 @@ import (
 	"time"
 )
 
-const apiKey = "0aa4d6e40139ecbc999037c33dbbb34e"
+const apiKey = "..."
 
 func fetchWeather(city string) interface{} {
 
