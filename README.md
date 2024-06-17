@@ -3,8 +3,6 @@ Repository with a simple project to put in practice and demonstrate the potentia
 
 In this case I'm using the Open Weather API to check the difference in terms of time results between not using Concurrency and using Concurrency.
 
-# Concurrency in Golang Project
-
 This project showcases the ease of implementing concurrency in Golang using go routines and channels. Concurrency allows for efficient task execution, API calls, aggregating data, and more. By effectively utilizing all available resources, concurrency significantly improves program efficiency.
 
 ## Features
