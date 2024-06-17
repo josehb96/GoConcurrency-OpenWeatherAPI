@@ -17,3 +17,6 @@ This project showcases the ease of implementing concurrency in Golang using go r
 3. Run the project using Golang.
 4. Explore the code to understand how concurrency is implemented.
 5. Check the real API example to see the improvements in execution times.
+
+## Documentation
+Check the complete documentation of this project here: https://josehurtadobaeza.super.site/databases/blog-posts-database/go-concurrency-explained-go-routines-channels
